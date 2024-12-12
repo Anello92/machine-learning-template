@@ -100,4 +100,3 @@ pip install -r requirements.txt
    jupyter notebook notebooks/machine_learning_template.ipynb
    ```
 3. Follow the step-by-step instructions within the notebook to adapt the template to your specific project needs.
-License**
