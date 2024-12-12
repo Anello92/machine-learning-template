@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/machine-learning-template.git
+   git clone https://github.com/Anello92/machine-learning-template.git
    cd machine-learning-template
    ```
 2. Open the Jupyter Notebook:
@@ -100,5 +100,4 @@ pip install -r requirements.txt
    jupyter notebook notebooks/machine_learning_template.ipynb
    ```
 3. Follow the step-by-step instructions within the notebook to adapt the template to your specific project needs.
-
-### The End
+License**
